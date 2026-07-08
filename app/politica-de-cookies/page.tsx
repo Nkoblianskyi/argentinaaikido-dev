@@ -79,7 +79,7 @@ export default function CookiesPage() {
               Política de Cookies
             </h1>
             <p className="text-sm text-muted-foreground font-sans">
-              Última actualización 2026
+              Última actualización 2026 
             </p>
           </div>
         </div>
